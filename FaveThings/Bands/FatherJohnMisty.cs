@@ -1,13 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+ 
 
-namespace FaveThings.BaseballThings
+namespace FaveThings.Bands
 {
-    class Base
+    class FatherJohnMisty
     {
-        public string HomePlate { get; set; }
-        public string PitchingRubber { get; set; }
-        public string FirstBase { get; set; }
+       
     }
 }
