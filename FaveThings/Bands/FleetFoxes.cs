@@ -18,7 +18,7 @@ namespace FaveThings.Bands
 
         public void PrintAlbums()
         {
-            Console.WriteLine($"They have {Albums} albums.");
+            Console.WriteLine($"They have {Albums} studio albums.");
         }
 
         public void Touring()
