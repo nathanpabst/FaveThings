@@ -32,6 +32,7 @@ namespace FaveThings
 
             Console.WriteLine("press enter to exit.");
             Console.ReadLine();
+            Console.Writeline("Goodbye");
         }
     }
 }
